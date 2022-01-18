@@ -32,5 +32,4 @@ jobs:
           checks: "files,duppatterns,syntax"
           experimental_checks: "notowned"
           repository_path: "."
-          owner_checker_repository: "${{ github.repository }}"
           
