@@ -5,5 +5,5 @@
 CODEOWNERS @asreejith-vcrs
 
 /dir1 @asreejith-vcrs
-/dir2/file1.py @asreejith-vcrs
+/dir2/file1.py
 /dir3 @asreejith-vcrs
