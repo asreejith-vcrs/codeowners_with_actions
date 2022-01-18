@@ -1,0 +1,8 @@
+# Top level directory as well as files that aren't covered
+* @asreejith-vcrs
+
+.gitignore @asreejith-vcrs
+CODEOWNERS @asreejith-vcrs
+
+/dir1 @asreejith-vcrs
+/dir2/file1.py @asreejith-vcrs
